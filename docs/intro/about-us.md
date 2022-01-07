@@ -12,8 +12,6 @@ go-zero 包含极简的 API 定义和生成工具 goctl，可以根据定义的 
 
 ## go-zero作者
 
-[<img src="/img/kevin.jpeg" width="150px" height="150px" alt="kevwan"/>](https://github.com/kevwan)
-
 <details>
   <summary>万俊峰(kevwan)</summary>
   <div>
