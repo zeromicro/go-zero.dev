@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktmp=self.webpackChunktmp||[]).push([[4290],{3084:function(e){e.exports=JSON.parse('{"permalink":"/go-zero.dev/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
