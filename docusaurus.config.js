@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'go-zero',
   tagline: 'go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验',
-  url: 'https://zhoushuguang.github.io',
-  baseUrl: '/',
+  url: 'https://zeromicro.github.io',
+  baseUrl: '/go-zero.dev/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/go-zero.svg',
-  organizationName: 'zhoushuguang', // Usually your GitHub org/user name.
-  projectName: 'zhoushuguang.github.io', // Usually your repo name.
+  organizationName: 'zeromicro', // Usually your GitHub org/user name.
+  projectName: 'go-zero.dev', // Usually your repo name.
 
   presets: [
     [
