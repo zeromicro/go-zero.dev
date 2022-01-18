@@ -137,3 +137,4 @@ go-zero框架中默认开启熔断保护，不需要额外再配置
 var ErrServiceUnavailable = errors.New("circuit breaker is open")
 ````
 
+[使用示例](https://github.com/zeromicro/zero-examples/tree/main/breaker)
